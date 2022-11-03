@@ -1,0 +1,16 @@
+Get
+http://localhost:3000/house/A0001
+
+Post
+http://localhost:3000/house
+
+[Use JSON]
+{
+  "id":"A0005",
+  "ownerName":"yys",
+  "type":"Detached",
+  "address1":"38 Oldham",
+  "address2":"Manchester",
+  "postCode":"O19 EX2",
+  "price":"12500"
+}
